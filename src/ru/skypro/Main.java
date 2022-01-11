@@ -5,10 +5,10 @@ public class Main {
     public static void main(String[] args) {
 
         //Задание №1
-        int[] arrayInt = new int[3];
-        arrayInt[0] = 1;
-        arrayInt[1] = 2;
-        arrayInt[2] = 3;
+        int[] arrayInt = new int[]{1, 2, 3};
+//        arrayInt[0] = 1;
+//        arrayInt[1] = 2;
+//        arrayInt[2] = 3;
 
         double[] arrayDouble = {2.021, 2.022, 2.023};
         String[] arrayString = {"январь", "февраль", "март"};
